@@ -28,19 +28,16 @@ Exploratory Data Analysis and SQL insights on bank loan dataset
 ---
 
 ## 📈 Key Insights
-- Majority loans are ______
-- Good loans account for ______%
-- Highest loan applications from ______
-- Most common purpose is ______
+- Majority loans are Fully Paid / Current
+- Good loans account for 89.8%
+- Highest loan applications from CA (California)
+- Most common purpose is Debt consolidation
 
 ---
 
 ## 📁 Files Included
 - eda_report.md
-- bank_loan_queries.sql
-- query_results/
-- visualizations/
-- dashboard_mockup.png
+- BANK LOAN REPORT QUERIES.docx  
 
 ---
 
