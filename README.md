@@ -22,8 +22,9 @@ Exploratory Data Analysis and SQL insights on bank loan dataset
 
 ## 🛠️ Tools Used
 - SQL Server
-- Excel / Python
-- Data Visualization tools
+- Excel
+- Tableau
+- Jupiter Notebook
 
 ---
 
